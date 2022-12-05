@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @fanshi001
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+fanshi001/fanshi001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
+（以上内容保留备用）
+这是一个啥也不会的一般路过用户，你是怎么会找到这个废物的
