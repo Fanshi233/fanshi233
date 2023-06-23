@@ -1,4 +1,4 @@
-[![Fanshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fanshi233)](https://github.com/anuraghazra/github-readme-stats)
+[![Fanshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fanshi233&locale=zh-tw)](https://github.com/anuraghazra/github-readme-stats)
 
 
 啥球也不会，纯纯高强度网上冲浪的学生
